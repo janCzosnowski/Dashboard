@@ -23,7 +23,7 @@ a img{
     height: 32px;
 }
 a *{
-    margin: 8px;
+    margin: 16px;
 }
 div.title{
     font-weight: 700;
