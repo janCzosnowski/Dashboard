@@ -1,0 +1,35 @@
+body{
+    background-color: #22222B;
+    color: azure;
+    font-family: sans-serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #202029;
+    margin: -8px;
+}
+a{
+    margin:6px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    text-decoration: none;
+    color:azure;
+}
+a img{
+    width: 32px;
+    height: 32px;
+}
+a *{
+    margin: 8px;
+}
+div.title{
+    font-weight: 700;
+    font-size: 20px;
+}
+div.links{
+    display: flex;
+    justify-content: space-around;
+}
